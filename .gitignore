@@ -7,11 +7,9 @@
 # Dependencias de Node.js
 node_modules/
 
-# Documentos de entrega y bitácora (archivos locales)
+# Documentos de entrega locales
 U2_ActividadSumativa.docx
 U2_ActividadSumativa.pdf
-Bitacora_BaseDatos_Nube_AlejandroMendoza.docx
-Bitacora_BaseDatos_Nube_AlejandroMendoza.pdf
 
 # Archivos temporales de Microsoft Office
 ~$*
